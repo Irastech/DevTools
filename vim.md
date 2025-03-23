@@ -1,14 +1,9 @@
----
-title: Vim
-
----
-
 ## Getting started
 {: .-three-column}
 
 ### Introduction
 
- [Vim](http://www.vim.org/) is a very efficient text editor. This reference was made for Vim 8.0.   
+ [Vim](http://www.vim.org/) is a very efficient text editor. (Vim 8.0.)
 
  For shortcut notation, see `:help key-notation`.
 
